@@ -1,16 +1,14 @@
-### Hi there 👋
+### I am PengQiang 👋
 
-<!--
-**nobadbad/nobadbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 Working hard
+- 😄 Code play
+- ⚡ An extrovert boy
+- :battery: Keep competitive
 
-Here are some ideas to get you started:
+### 🚀🚀🚀
+:hammer_and_wrench: Vue/React/Typescript/Javascript Actions
+:wrench: A little bit Java/Electron
+:bow_and_arrow: Good at PC/Webapp
+:battery: Leaning competitive pragramming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
