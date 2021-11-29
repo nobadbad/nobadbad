@@ -1,7 +1,7 @@
 ### 👋 I am PengQiang 
 
 - 🤔 Working hard
-- 😄 Code play
+- 😄 Code player
 - ⚡ An extrovert boy
 - :battery: Keep competitive
 
